@@ -124,6 +124,10 @@ strong {
     justify-self: center;
   }
 
+    .hero-copy {
+    width: 100%;
+  }
+
   .overview {
     padding: 15px 0;
   }
